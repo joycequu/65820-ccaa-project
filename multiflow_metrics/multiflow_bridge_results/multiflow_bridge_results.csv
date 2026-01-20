@@ -1,0 +1,4 @@
+bw_mbps,cca,client_ip,fairness,flow_id,large_fct_seconds,large_throughput_mbps,rtt_ms,scenario,size_bytes
+100,cubic,10.10.0.3,0.9999736121362343,0,14.146808,607.199489241672,50,3flows_sameRTT_cubic,1073741824.0
+100,cubic,10.10.0.4,0.9999736121362343,1,14.320734,599.8250223766464,50,3flows_sameRTT_cubic,1073741824.0
+100,cubic,10.10.0.5,0.9999736121362343,2,14.195748,605.1061622113889,50,3flows_sameRTT_cubic,1073741824.0

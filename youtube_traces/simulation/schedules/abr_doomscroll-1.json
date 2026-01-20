@@ -1,0 +1,267 @@
+[
+  {
+    "stream_id": "0",
+    "events": [
+      {
+        "timestamp_sec": -2.24,
+        "action": "sleep",
+        "duration_sec": 4.156
+      },
+      {
+        "timestamp_sec": 1.916,
+        "action": "download",
+        "size_mb": 2.471,
+        "video_duration_sec": 3.51,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 2.437,
+        "action": "sleep",
+        "duration_sec": 6.915
+      },
+      {
+        "timestamp_sec": 9.917,
+        "action": "sleep",
+        "duration_sec": 2.623
+      },
+      {
+        "timestamp_sec": 12.54,
+        "action": "download",
+        "size_mb": 2.602,
+        "video_duration_sec": 4.85,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "0_bg",
+    "events": [
+      {
+        "timestamp_sec": -2.602,
+        "action": "download",
+        "size_mb": 4.287,
+        "video_duration_sec": 14.39,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 9.352,
+        "action": "download",
+        "size_mb": 2.636,
+        "video_duration_sec": 8.84,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "1",
+    "events": [
+      {
+        "timestamp_sec": -0.506,
+        "action": "sleep",
+        "duration_sec": 13.805
+      },
+      {
+        "timestamp_sec": 13.299,
+        "action": "download",
+        "size_mb": 0.005,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 13.337,
+        "action": "sleep",
+        "duration_sec": 6.053
+      },
+      {
+        "timestamp_sec": 19.39,
+        "action": "download",
+        "size_mb": 2.576,
+        "video_duration_sec": 1.73,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 19.931,
+        "action": "sleep",
+        "duration_sec": 2.858
+      },
+      {
+        "timestamp_sec": 22.789,
+        "action": "download",
+        "size_mb": 2.685,
+        "video_duration_sec": 2.8,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "1_bg",
+    "events": [
+      {
+        "timestamp_sec": -0.885,
+        "action": "download",
+        "size_mb": 5.371,
+        "video_duration_sec": 18.02,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "2_bg",
+    "events": [
+      {
+        "timestamp_sec": 8.953,
+        "action": "download",
+        "size_mb": 5.974,
+        "video_duration_sec": 20.05,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "3",
+    "events": [
+      {
+        "timestamp_sec": 15.044,
+        "action": "sleep",
+        "duration_sec": 14.012
+      },
+      {
+        "timestamp_sec": 29.056,
+        "action": "download",
+        "size_mb": 0.005,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 29.097,
+        "action": "sleep",
+        "duration_sec": 6.271
+      },
+      {
+        "timestamp_sec": 35.368,
+        "action": "download",
+        "size_mb": 3.171,
+        "video_duration_sec": 4.06,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 36.033,
+        "action": "sleep",
+        "duration_sec": 5.397
+      },
+      {
+        "timestamp_sec": 41.429,
+        "action": "download",
+        "size_mb": 2.935,
+        "video_duration_sec": 2.65,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "3_bg",
+    "events": [
+      {
+        "timestamp_sec": 14.695,
+        "action": "download",
+        "size_mb": 5.348,
+        "video_duration_sec": 17.94,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "4",
+    "events": [
+      {
+        "timestamp_sec": 30.582,
+        "action": "sleep",
+        "duration_sec": 14.285
+      },
+      {
+        "timestamp_sec": 44.867,
+        "action": "download",
+        "size_mb": 0.009,
+        "video_duration_sec": 0.04,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 44.905,
+        "action": "sleep",
+        "duration_sec": 3.089
+      },
+      {
+        "timestamp_sec": 48.188,
+        "action": "sleep",
+        "duration_sec": 2.992
+      },
+      {
+        "timestamp_sec": 51.526,
+        "action": "sleep",
+        "duration_sec": 23.705
+      },
+      {
+        "timestamp_sec": 75.231,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "4_bg",
+    "events": [
+      {
+        "timestamp_sec": 30.33,
+        "action": "download",
+        "size_mb": 3.002,
+        "video_duration_sec": 10.07,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 47.994,
+        "action": "download",
+        "size_mb": 0.861,
+        "video_duration_sec": 2.89,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 51.179,
+        "action": "download",
+        "size_mb": 1.606,
+        "video_duration_sec": 5.39,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "5",
+    "events": [
+      {
+        "timestamp_sec": 60.629,
+        "action": "sleep",
+        "duration_sec": 14.602
+      },
+      {
+        "timestamp_sec": 75.231,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "5_bg",
+    "events": [
+      {
+        "timestamp_sec": 60.268,
+        "action": "download",
+        "size_mb": 4.837,
+        "video_duration_sec": 16.23,
+        "is_background": true
+      }
+    ]
+  }
+]

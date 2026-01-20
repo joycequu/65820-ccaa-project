@@ -1,0 +1,147 @@
+[
+  {
+    "stream_id": "0",
+    "total_mb": 15.24,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 2.079826,
+        "new_connection": true,
+        "_debug_start": 0.0,
+        "_debug_end": 0.395601
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 6.413
+      },
+      {
+        "action": "download",
+        "size_mb": 1.592123,
+        "new_connection": false,
+        "_debug_start": 6.808834,
+        "_debug_end": 7.182001
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 2.822
+      },
+      {
+        "action": "download",
+        "size_mb": 1.445398,
+        "new_connection": false,
+        "_debug_start": 10.004437,
+        "_debug_end": 10.408285
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 6.675
+      },
+      {
+        "action": "download",
+        "size_mb": 1.173107,
+        "new_connection": false,
+        "_debug_start": 17.083709,
+        "_debug_end": 17.442991
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 2.588
+      },
+      {
+        "action": "download",
+        "size_mb": 1.110413,
+        "new_connection": false,
+        "_debug_start": 20.031453,
+        "_debug_end": 20.295555
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 6.708
+      },
+      {
+        "action": "download",
+        "size_mb": 0.632922,
+        "new_connection": false,
+        "_debug_start": 27.003502,
+        "_debug_end": 27.168284
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 2.771
+      },
+      {
+        "action": "download",
+        "size_mb": 2.427621,
+        "new_connection": false,
+        "_debug_start": 29.939318,
+        "_debug_end": 30.350402
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 4.231
+      },
+      {
+        "action": "download",
+        "size_mb": 0.918013,
+        "new_connection": false,
+        "_debug_start": 34.581744,
+        "_debug_end": 34.84211
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 5.042
+      },
+      {
+        "action": "download",
+        "size_mb": 0.777285,
+        "new_connection": false,
+        "_debug_start": 39.88439,
+        "_debug_end": 40.147456
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 3.989
+      },
+      {
+        "action": "download",
+        "size_mb": 0.791222,
+        "new_connection": false,
+        "_debug_start": 44.136811,
+        "_debug_end": 44.352791
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 5.685
+      },
+      {
+        "action": "download",
+        "size_mb": 0.854055,
+        "new_connection": false,
+        "_debug_start": 50.037902,
+        "_debug_end": 50.53135
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 4.225
+      },
+      {
+        "action": "download",
+        "size_mb": 0.679595,
+        "new_connection": false,
+        "_debug_start": 54.756451,
+        "_debug_end": 54.933116
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 4.21
+      },
+      {
+        "action": "download",
+        "size_mb": 0.755006,
+        "new_connection": false,
+        "_debug_start": 59.143599,
+        "_debug_end": 59.393898
+      }
+    ]
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "stream_id": "0",
+    "playback_start_sec": 0.0,
+    "events": [
+      {
+        "timestamp_sec": 0.0,
+        "action": "download",
+        "size_mb": 1.069,
+        "video_duration_sec": 2.45,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 5.161,
+        "action": "download",
+        "size_mb": 0.001,
+        "video_duration_sec": 4.2,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 7.185,
+        "action": "download",
+        "size_mb": 0.028,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 8.296,
+        "action": "download",
+        "size_mb": 0.063,
+        "video_duration_sec": 0.27,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 10.448,
+        "action": "download",
+        "size_mb": 0.023,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 11.618,
+        "action": "download",
+        "size_mb": 0.029,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 12.821,
+        "action": "download",
+        "size_mb": 0.047,
+        "video_duration_sec": 0.11,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 14.861,
+        "action": "download",
+        "size_mb": 0.054,
+        "video_duration_sec": 0.3,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 16.613,
+        "action": "download",
+        "size_mb": 0.021,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 17.673,
+        "action": "download",
+        "size_mb": 0.029,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 18.961,
+        "action": "download",
+        "size_mb": 0.06,
+        "video_duration_sec": 14.3,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 20.75,
+        "action": "download",
+        "size_mb": 0.085,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 21.917,
+        "action": "download",
+        "size_mb": 0.029,
+        "video_duration_sec": 2.87,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 23.151,
+        "action": "download",
+        "size_mb": 0.006,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 24.022,
+        "action": "download",
+        "size_mb": 0.017,
+        "video_duration_sec": 2.39,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 25.333,
+        "action": "download",
+        "size_mb": 0.02,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 26.852,
+        "action": "download",
+        "size_mb": 0.013,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 28.677,
+        "action": "download",
+        "size_mb": 0.024,
+        "video_duration_sec": 0.03,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 29.744,
+        "action": "download",
+        "size_mb": 0.03,
+        "video_duration_sec": 1.49,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 30.977,
+        "action": "download",
+        "size_mb": 0.064,
+        "video_duration_sec": 0.14,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 33.028,
+        "action": "download",
+        "size_mb": 0.021,
+        "video_duration_sec": 0.09,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 34.254,
+        "action": "download",
+        "size_mb": 0.037,
+        "video_duration_sec": 2.43,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 35.583,
+        "action": "download",
+        "size_mb": 0.059,
+        "video_duration_sec": 0.14,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 37.648,
+        "action": "download",
+        "size_mb": 0.069,
+        "video_duration_sec": 0.11,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 39.556,
+        "action": "download",
+        "size_mb": 0.066,
+        "video_duration_sec": 0.01,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 40.653,
+        "action": "download",
+        "size_mb": 0.023,
+        "video_duration_sec": 0.85,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 41.981,
+        "action": "download",
+        "size_mb": 0.019,
+        "video_duration_sec": 0.26,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 43.803,
+        "action": "download",
+        "size_mb": 0.019,
+        "video_duration_sec": 0.14,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 45.809,
+        "action": "download",
+        "size_mb": 0.006,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 47.562,
+        "action": "download",
+        "size_mb": 0.006,
+        "video_duration_sec": 0.92,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 48.9,
+        "action": "download",
+        "size_mb": 0.049,
+        "video_duration_sec": 5.07,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 50.961,
+        "action": "download",
+        "size_mb": 0.022,
+        "video_duration_sec": 0.16,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 51.999,
+        "action": "download",
+        "size_mb": 0.029,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 53.229,
+        "action": "download",
+        "size_mb": 0.054,
+        "video_duration_sec": 0.18,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 54.801,
+        "action": "download",
+        "size_mb": 0.062,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 56.574,
+        "action": "download",
+        "size_mb": 0.067,
+        "video_duration_sec": 0.06,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 57.575,
+        "action": "download",
+        "size_mb": 0.024,
+        "video_duration_sec": 0.33,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 58.856,
+        "action": "download",
+        "size_mb": 0.019,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 60.7,
+        "action": "download",
+        "size_mb": 0.019,
+        "video_duration_sec": 4.39,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 62.736,
+        "action": "download",
+        "size_mb": 0.02,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 64.782,
+        "action": "download",
+        "size_mb": 0.023,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 72.719,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "1",
+    "playback_start_sec": 7.383,
+    "events": [
+      {
+        "timestamp_sec": 0.324,
+        "action": "download",
+        "size_mb": 4.247,
+        "video_duration_sec": 14.25,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 4.834,
+        "action": "download",
+        "size_mb": 1.004,
+        "video_duration_sec": 3.37,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 8.366,
+        "action": "download",
+        "size_mb": 3.958,
+        "video_duration_sec": 13.28,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 9.362,
+        "action": "download",
+        "size_mb": 0.004,
+        "video_duration_sec": 0.04,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "3",
+    "playback_start_sec": 11.935,
+    "events": [
+      {
+        "timestamp_sec": 2.154,
+        "action": "download",
+        "size_mb": 3.398,
+        "video_duration_sec": 11.4,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 7.218,
+        "action": "download",
+        "size_mb": 0.007,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "5",
+    "playback_start_sec": 15.821,
+    "events": [
+      {
+        "timestamp_sec": 10.536,
+        "action": "download",
+        "size_mb": 2.789,
+        "video_duration_sec": 9.36,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 11.641,
+        "action": "download",
+        "size_mb": 0.004,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 39.749,
+        "action": "download",
+        "size_mb": 5.006,
+        "video_duration_sec": 16.8,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 40.672,
+        "action": "download",
+        "size_mb": 0.004,
+        "video_duration_sec": 0.09,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "6",
+    "playback_start_sec": 18.027,
+    "events": [
+      {
+        "timestamp_sec": 11.732,
+        "action": "download",
+        "size_mb": 5.973,
+        "video_duration_sec": 8.52,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "7",
+    "playback_start_sec": 19.826,
+    "events": [
+      {
+        "timestamp_sec": 12.942,
+        "action": "download",
+        "size_mb": 4.296,
+        "video_duration_sec": 14.42,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "8",
+    "playback_start_sec": 22.377,
+    "events": [
+      {
+        "timestamp_sec": 14.973,
+        "action": "download",
+        "size_mb": 7.914,
+        "video_duration_sec": 26.55,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "9",
+    "playback_start_sec": 24.425,
+    "events": [
+      {
+        "timestamp_sec": 16.771,
+        "action": "download",
+        "size_mb": 1.895,
+        "video_duration_sec": 6.36,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "10",
+    "playback_start_sec": 25.943,
+    "events": [
+      {
+        "timestamp_sec": 19.039,
+        "action": "download",
+        "size_mb": 4.012,
+        "video_duration_sec": 6.46,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "11",
+    "playback_start_sec": 27.728,
+    "events": [
+      {
+        "timestamp_sec": 20.833,
+        "action": "download",
+        "size_mb": 5.077,
+        "video_duration_sec": 17.03,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 21.94,
+        "action": "download",
+        "size_mb": 0.005,
+        "video_duration_sec": 0.04,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "12",
+    "playback_start_sec": 30.031,
+    "events": [
+      {
+        "timestamp_sec": 23.072,
+        "action": "download",
+        "size_mb": 2.034,
+        "video_duration_sec": 6.82,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 24.059,
+        "action": "download",
+        "size_mb": 0.004,
+        "video_duration_sec": 0.21,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "13",
+    "playback_start_sec": 32.446,
+    "events": [
+      {
+        "timestamp_sec": 25.372,
+        "action": "download",
+        "size_mb": 1.977,
+        "video_duration_sec": 6.63,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "14",
+    "playback_start_sec": 34.626,
+    "events": [
+      {
+        "timestamp_sec": 26.938,
+        "action": "download",
+        "size_mb": 2.421,
+        "video_duration_sec": 8.12,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "15",
+    "playback_start_sec": 37.033,
+    "events": [
+      {
+        "timestamp_sec": 28.769,
+        "action": "download",
+        "size_mb": 6.499,
+        "video_duration_sec": 21.81,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 29.765,
+        "action": "download",
+        "size_mb": 0.004,
+        "video_duration_sec": 0.18,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "16",
+    "playback_start_sec": 39.035,
+    "events": [
+      {
+        "timestamp_sec": 31.068,
+        "action": "download",
+        "size_mb": 7.312,
+        "video_duration_sec": 24.53,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "17",
+    "playback_start_sec": 41.125,
+    "events": [
+      {
+        "timestamp_sec": 33.131,
+        "action": "download",
+        "size_mb": 2.061,
+        "video_duration_sec": 6.92,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 34.274,
+        "action": "download",
+        "size_mb": 0.003,
+        "video_duration_sec": 0.23,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "18",
+    "playback_start_sec": 43.005,
+    "events": [
+      {
+        "timestamp_sec": 35.693,
+        "action": "download",
+        "size_mb": 5.017,
+        "video_duration_sec": 16.83,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 42.001,
+        "action": "download",
+        "size_mb": 2.028,
+        "video_duration_sec": 6.8,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "19",
+    "playback_start_sec": 45.074,
+    "events": [
+      {
+        "timestamp_sec": 37.734,
+        "action": "download",
+        "size_mb": 5.411,
+        "video_duration_sec": 18.16,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 54.873,
+        "action": "download",
+        "size_mb": 3.451,
+        "video_duration_sec": 11.58,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 72.718,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "20",
+    "playback_start_sec": 48.066,
+    "events": [
+      {
+        "timestamp_sec": 43.81,
+        "action": "download",
+        "size_mb": 2.448,
+        "video_duration_sec": 8.21,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 72.718,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "21",
+    "playback_start_sec": 50.002,
+    "events": [
+      {
+        "timestamp_sec": 45.879,
+        "action": "download",
+        "size_mb": 3.852,
+        "video_duration_sec": 12.93,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 72.718,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "22",
+    "playback_start_sec": 52.287,
+    "events": [
+      {
+        "timestamp_sec": 49.023,
+        "action": "download",
+        "size_mb": 4.557,
+        "video_duration_sec": 15.29,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 72.72,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "23",
+    "playback_start_sec": 54.108,
+    "events": [
+      {
+        "timestamp_sec": 51.041,
+        "action": "download",
+        "size_mb": 4.026,
+        "video_duration_sec": 13.51,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 72.719,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "24",
+    "playback_start_sec": 55.657,
+    "events": [
+      {
+        "timestamp_sec": 53.339,
+        "action": "download",
+        "size_mb": 3.573,
+        "video_duration_sec": 11.99,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 72.719,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "25",
+    "playback_start_sec": 58.046,
+    "events": [
+      {
+        "timestamp_sec": 56.708,
+        "action": "download",
+        "size_mb": 3.735,
+        "video_duration_sec": 12.53,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 57.594,
+        "action": "download",
+        "size_mb": 0.009,
+        "video_duration_sec": 0.04,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 72.719,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "26",
+    "playback_start_sec": 59.748,
+    "events": [
+      {
+        "timestamp_sec": 58.912,
+        "action": "download",
+        "size_mb": 2.852,
+        "video_duration_sec": 9.57,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 72.72,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "27",
+    "playback_start_sec": 61.814,
+    "events": [
+      {
+        "timestamp_sec": 60.691,
+        "action": "download",
+        "size_mb": 3.545,
+        "video_duration_sec": 1.17,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 72.721,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "28",
+    "playback_start_sec": 63.852,
+    "events": [
+      {
+        "timestamp_sec": 62.779,
+        "action": "download",
+        "size_mb": 2.459,
+        "video_duration_sec": 8.25,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 63.524,
+        "action": "download",
+        "size_mb": 0.004,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 72.72,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "29",
+    "playback_start_sec": 66.176,
+    "events": [
+      {
+        "timestamp_sec": 64.869,
+        "action": "download",
+        "size_mb": 1.845,
+        "video_duration_sec": 6.19,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 72.719,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "30",
+    "playback_start_sec": 68.19,
+    "events": [
+      {
+        "timestamp_sec": 67.171,
+        "action": "download",
+        "size_mb": 1.916,
+        "video_duration_sec": 6.43,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 72.72,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "31",
+    "playback_start_sec": 70.197,
+    "events": [
+      {
+        "timestamp_sec": 68.956,
+        "action": "download",
+        "size_mb": 2.856,
+        "video_duration_sec": 9.58,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 69.699,
+        "action": "download",
+        "size_mb": 0.004,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 72.721,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "32",
+    "playback_start_sec": 85.197,
+    "events": [
+      {
+        "timestamp_sec": 71.005,
+        "action": "download",
+        "size_mb": 3.138,
+        "video_duration_sec": 10.53,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 72.718,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  }
+]

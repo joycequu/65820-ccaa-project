@@ -1,0 +1,10 @@
+file-transfer/content/
+youtube_traces/cleaned_pcap/
+youtube_traces/raw_pcap/
+youtube_traces/youtube_stats/
+youtube_traces/pcap_csv/
+youtube_traces/p0_results/cleaned_pcap/
+youtube_traces/p0_results/raw_pcap/
+youtube_traces/p0_results/detailed_results_2/
+youtube_traces/p0_results/detailed_results_3/
+youtube_traces/backup/

@@ -1,0 +1,178 @@
+[
+  {
+    "stream_id": "0",
+    "playback_start_sec": 0.0,
+    "events": [
+      {
+        "timestamp_sec": 0.0,
+        "action": "download",
+        "size_mb": 7.458,
+        "video_duration_sec": 25.02,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 5.584,
+        "action": "download",
+        "size_mb": 4.634,
+        "video_duration_sec": 3.74,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "1",
+    "playback_start_sec": 11.751,
+    "events": [
+      {
+        "timestamp_sec": 1.811,
+        "action": "download",
+        "size_mb": 6.4,
+        "video_duration_sec": 21.48,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 11.351,
+        "action": "download",
+        "size_mb": 0.004,
+        "video_duration_sec": 0.04,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 16.971,
+        "action": "download",
+        "size_mb": 2.616,
+        "video_duration_sec": 8.78,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 21.911,
+        "action": "download",
+        "size_mb": 3.626,
+        "video_duration_sec": 0.75,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "2",
+    "playback_start_sec": 27.407,
+    "events": [
+      {
+        "timestamp_sec": 11.495,
+        "action": "download",
+        "size_mb": 5.974,
+        "video_duration_sec": 20.04,
+        "is_background": true
+      }
+    ]
+  },
+  {
+    "stream_id": "3",
+    "playback_start_sec": 43.374,
+    "events": [
+      {
+        "timestamp_sec": 12.585,
+        "action": "download",
+        "size_mb": 4.371,
+        "video_duration_sec": 14.67,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 27.227,
+        "action": "download",
+        "size_mb": 0.004,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 30.343,
+        "action": "download",
+        "size_mb": 2.158,
+        "video_duration_sec": 1.19,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 36.993,
+        "action": "download",
+        "size_mb": 2.089,
+        "video_duration_sec": 1.02,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 39.909,
+        "action": "download",
+        "size_mb": 2.323,
+        "video_duration_sec": 1.32,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 63.542,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "4",
+    "playback_start_sec": 58.951,
+    "events": [
+      {
+        "timestamp_sec": 28.449,
+        "action": "download",
+        "size_mb": 4.74,
+        "video_duration_sec": 15.9,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 42.979,
+        "action": "download",
+        "size_mb": 0.004,
+        "video_duration_sec": 0.04,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 49.034,
+        "action": "download",
+        "size_mb": 3.044,
+        "video_duration_sec": 1.23,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 55.04,
+        "action": "download",
+        "size_mb": 2.533,
+        "video_duration_sec": 1.66,
+        "is_background": false
+      },
+      {
+        "timestamp_sec": 63.542,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  },
+  {
+    "stream_id": "5",
+    "playback_start_sec": 73.951,
+    "events": [
+      {
+        "timestamp_sec": 59.926,
+        "action": "download",
+        "size_mb": 3.594,
+        "video_duration_sec": 12.06,
+        "is_background": true
+      },
+      {
+        "timestamp_sec": 63.542,
+        "action": "download",
+        "size_mb": 0.0,
+        "video_duration_sec": 0.0,
+        "is_background": false
+      }
+    ]
+  }
+]

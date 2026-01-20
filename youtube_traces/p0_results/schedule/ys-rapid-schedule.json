@@ -1,0 +1,435 @@
+[
+  {
+    "stream_id": "1",
+    "total_mb": 3.97,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 3.970344,
+        "new_connection": true,
+        "_debug_start": 0.329561,
+        "_debug_end": 0.700753
+      }
+    ]
+  },
+  {
+    "stream_id": "3",
+    "total_mb": 3.08,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 3.084263,
+        "new_connection": true,
+        "_debug_start": 1.750137,
+        "_debug_end": 2.19267
+      }
+    ]
+  },
+  {
+    "stream_id": "5",
+    "total_mb": 4.63,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 4.625172,
+        "new_connection": true,
+        "_debug_start": 5.159446,
+        "_debug_end": 6.070001
+      }
+    ]
+  },
+  {
+    "stream_id": "6",
+    "total_mb": 8.89,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 8.883642,
+        "new_connection": true,
+        "_debug_start": 7.225211,
+        "_debug_end": 7.820861
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 0.519
+      },
+      {
+        "action": "download",
+        "size_mb": 0.003321,
+        "new_connection": false,
+        "_debug_start": 8.33952,
+        "_debug_end": 8.375227
+      }
+    ]
+  },
+  {
+    "stream_id": "8",
+    "total_mb": 4.57,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 4.574955,
+        "new_connection": true,
+        "_debug_start": 12.019783,
+        "_debug_end": 12.653829
+      }
+    ]
+  },
+  {
+    "stream_id": "9",
+    "total_mb": 12.1,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 3.951267,
+        "new_connection": true,
+        "_debug_start": 13.81504,
+        "_debug_end": 14.202132
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 0.517
+      },
+      {
+        "action": "download",
+        "size_mb": 0.003298,
+        "new_connection": false,
+        "_debug_start": 14.718635,
+        "_debug_end": 14.755865
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 14.604
+      },
+      {
+        "action": "download",
+        "size_mb": 8.141985,
+        "new_connection": false,
+        "_debug_start": 29.360089,
+        "_debug_end": 30.209546
+      }
+    ]
+  },
+  {
+    "stream_id": "10",
+    "total_mb": 5.04,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 5.038987,
+        "new_connection": true,
+        "_debug_start": 15.965955,
+        "_debug_end": 16.396578
+      }
+    ]
+  },
+  {
+    "stream_id": "12",
+    "total_mb": 3.51,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 3.51091,
+        "new_connection": true,
+        "_debug_start": 19.687335,
+        "_debug_end": 20.004764
+      }
+    ]
+  },
+  {
+    "stream_id": "13",
+    "total_mb": 7.79,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 7.786508,
+        "new_connection": true,
+        "_debug_start": 21.468362,
+        "_debug_end": 21.99242
+      }
+    ]
+  },
+  {
+    "stream_id": "14",
+    "total_mb": 2.69,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 2.691014,
+        "new_connection": true,
+        "_debug_start": 23.498148,
+        "_debug_end": 24.233138
+      }
+    ]
+  },
+  {
+    "stream_id": "15",
+    "total_mb": 7.92,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 3.042427,
+        "new_connection": true,
+        "_debug_start": 25.411728,
+        "_debug_end": 25.683063
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 15.704
+      },
+      {
+        "action": "download",
+        "size_mb": 4.875873,
+        "new_connection": false,
+        "_debug_start": 41.386903,
+        "_debug_end": 41.701068
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 0.798
+      },
+      {
+        "action": "download",
+        "size_mb": 0.003389,
+        "new_connection": false,
+        "_debug_start": 42.498899,
+        "_debug_end": 42.53563
+      }
+    ]
+  },
+  {
+    "stream_id": "16",
+    "total_mb": 9.34,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 4.924274,
+        "new_connection": true,
+        "_debug_start": 27.491356,
+        "_debug_end": 28.195072
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 19.458
+      },
+      {
+        "action": "download",
+        "size_mb": 4.420269,
+        "new_connection": false,
+        "_debug_start": 47.653255,
+        "_debug_end": 48.222746
+      }
+    ]
+  },
+  {
+    "stream_id": "17",
+    "total_mb": 4.24,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 4.238546,
+        "new_connection": true,
+        "_debug_start": 31.400266,
+        "_debug_end": 32.27379
+      }
+    ]
+  },
+  {
+    "stream_id": "18",
+    "total_mb": 4.67,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 4.663313,
+        "new_connection": true,
+        "_debug_start": 33.392815,
+        "_debug_end": 33.768162
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 0.566
+      },
+      {
+        "action": "download",
+        "size_mb": 0.003306,
+        "new_connection": false,
+        "_debug_start": 34.334,
+        "_debug_end": 34.371047
+      }
+    ]
+  },
+  {
+    "stream_id": "19",
+    "total_mb": 7.9,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 7.898557,
+        "new_connection": true,
+        "_debug_start": 35.482993,
+        "_debug_end": 36.330437
+      }
+    ]
+  },
+  {
+    "stream_id": "20",
+    "total_mb": 5.17,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 5.172291,
+        "new_connection": true,
+        "_debug_start": 37.438931,
+        "_debug_end": 38.257242
+      }
+    ]
+  },
+  {
+    "stream_id": "21",
+    "total_mb": 8.93,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 4.678993,
+        "new_connection": true,
+        "_debug_start": 39.457707,
+        "_debug_end": 40.21714
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 21.105
+      },
+      {
+        "action": "download",
+        "size_mb": 4.24851,
+        "new_connection": false,
+        "_debug_start": 61.322118,
+        "_debug_end": 61.572109
+      }
+    ]
+  },
+  {
+    "stream_id": "22",
+    "total_mb": 13.45,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 4.899527,
+        "new_connection": true,
+        "_debug_start": 43.742019,
+        "_debug_end": 44.481944
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 6.917
+      },
+      {
+        "action": "download",
+        "size_mb": 8.546791,
+        "new_connection": false,
+        "_debug_start": 51.398713,
+        "_debug_end": 52.174769
+      }
+    ]
+  },
+  {
+    "stream_id": "23",
+    "total_mb": 4.78,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 4.77878,
+        "new_connection": true,
+        "_debug_start": 45.673086,
+        "_debug_end": 46.465925
+      }
+    ]
+  },
+  {
+    "stream_id": "24",
+    "total_mb": 4.81,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 4.800223,
+        "new_connection": true,
+        "_debug_start": 49.344555,
+        "_debug_end": 49.703915
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 0.561
+      },
+      {
+        "action": "download",
+        "size_mb": 0.008928,
+        "new_connection": false,
+        "_debug_start": 50.265237,
+        "_debug_end": 50.301435
+      }
+    ]
+  },
+  {
+    "stream_id": "25",
+    "total_mb": 4.31,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 4.308135,
+        "new_connection": true,
+        "_debug_start": 53.277789,
+        "_debug_end": 53.638141
+      },
+      {
+        "action": "sleep",
+        "duration_sec": 0.522
+      },
+      {
+        "action": "download",
+        "size_mb": 0.003224,
+        "new_connection": false,
+        "_debug_start": 54.160202,
+        "_debug_end": 54.199693
+      }
+    ]
+  },
+  {
+    "stream_id": "26",
+    "total_mb": 5.86,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 5.857468,
+        "new_connection": true,
+        "_debug_start": 55.386691,
+        "_debug_end": 56.16274
+      }
+    ]
+  },
+  {
+    "stream_id": "27",
+    "total_mb": 6.01,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 6.007365,
+        "new_connection": true,
+        "_debug_start": 57.343232,
+        "_debug_end": 58.104645
+      }
+    ]
+  },
+  {
+    "stream_id": "28",
+    "total_mb": 8.32,
+    "events": [
+      {
+        "action": "download",
+        "size_mb": 8.316364,
+        "new_connection": true,
+        "_debug_start": 59.289766,
+        "_debug_end": 60.167797
+      }
+    ]
+  }
+]

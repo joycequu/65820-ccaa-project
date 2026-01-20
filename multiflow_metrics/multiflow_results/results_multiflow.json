@@ -1,0 +1,274 @@
+[
+  {
+    "scenario": "3flows_sameRTT_cubic",
+    "per_flow": [
+      {
+        "flow_id": 0,
+        "cca": "cubic",
+        "rtt_ms": 50,
+        "large_throughput_mbps": 33.16239868814883,
+        "large_fct_seconds": 259.026335,
+        "plt_seconds": 2.046946,
+        "ttfb_seconds": 0.101852,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 9.351818005285722,
+          "throughput_jitter_mbps": 0.9601179063576561,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 10.375899
+        }
+      },
+      {
+        "flow_id": 1,
+        "cca": "cubic",
+        "rtt_ms": 50,
+        "large_throughput_mbps": 31.242440511167025,
+        "large_fct_seconds": 274.944417,
+        "plt_seconds": 2.04387,
+        "ttfb_seconds": 0.103006,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 9.451689920883775,
+          "throughput_jitter_mbps": 0.9925233118693153,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 10.266777
+        }
+      },
+      {
+        "flow_id": 2,
+        "cca": "cubic",
+        "rtt_ms": 50,
+        "large_throughput_mbps": 31.32156955016775,
+        "large_fct_seconds": 274.249813,
+        "plt_seconds": 2.045308,
+        "ttfb_seconds": 0.104162,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 9.67753263214124,
+          "throughput_jitter_mbps": 0.9478034910512938,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 10.007129999999998
+        }
+      }
+    ],
+    "fairness": 0.9992278441682088,
+    "bw_mbps": 100,
+    "rtt_ms": 50
+  },
+  {
+    "scenario": "3flows_sameRTT_bbr",
+    "per_flow": [
+      {
+        "flow_id": 0,
+        "cca": "bbr",
+        "rtt_ms": 50,
+        "large_throughput_mbps": 31.26121934037117,
+        "large_fct_seconds": 274.779256,
+        "plt_seconds": 2.084918,
+        "ttfb_seconds": 0.105094,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 8.755501514123562,
+          "throughput_jitter_mbps": 0.6649095150477043,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 11.018062
+        }
+      },
+      {
+        "flow_id": 1,
+        "cca": "bbr",
+        "rtt_ms": 50,
+        "large_throughput_mbps": 30.776588680525972,
+        "large_fct_seconds": 279.106131,
+        "plt_seconds": 2.081857,
+        "ttfb_seconds": 0.102393,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 8.755364239469682,
+          "throughput_jitter_mbps": 0.6690942543809661,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 11.018687
+        }
+      },
+      {
+        "flow_id": 2,
+        "cca": "bbr",
+        "rtt_ms": 50,
+        "large_throughput_mbps": 31.002882311913584,
+        "large_fct_seconds": 277.068903,
+        "plt_seconds": 2.08366,
+        "ttfb_seconds": 0.103662,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 8.750745869353254,
+          "throughput_jitter_mbps": 0.66977569336105,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 11.024581999999997
+        }
+      }
+    ],
+    "fairness": 0.999959244906119,
+    "bw_mbps": 100,
+    "rtt_ms": 50
+  },
+  {
+    "scenario": "3flows_diffRTT_cubic",
+    "per_flow": [
+      {
+        "flow_id": 0,
+        "cca": "cubic",
+        "rtt_ms": 10,
+        "large_throughput_mbps": 31.56952697150579,
+        "large_fct_seconds": 272.095765,
+        "plt_seconds": 0.427787,
+        "ttfb_seconds": 0.021461,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 40.792834149980585,
+          "throughput_jitter_mbps": 2.8482220781978573,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 2.3647739999999993
+        }
+      },
+      {
+        "flow_id": 1,
+        "cca": "cubic",
+        "rtt_ms": 50,
+        "large_throughput_mbps": 63.317116966468134,
+        "large_fct_seconds": 135.665283,
+        "plt_seconds": 2.161758,
+        "ttfb_seconds": 0.109214,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 10.004087586112849,
+          "throughput_jitter_mbps": 0.8218131461499334,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 9.649097000000001
+        }
+      },
+      {
+        "flow_id": 2,
+        "cca": "cubic",
+        "rtt_ms": 200,
+        "large_throughput_mbps": 34.16397496508487,
+        "large_fct_seconds": 251.432528,
+        "plt_seconds": 8.386571,
+        "ttfb_seconds": 0.420677,
+        "video": {
+          "avg_quality_score": 2.6333333333333333,
+          "avg_throughput_mbps": 2.2909468218401305,
+          "throughput_jitter_mbps": 0.5243260316066901,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 34.37432100000001
+        }
+      }
+    ],
+    "fairness": 0.8993149882982442,
+    "bw_mbps": 100,
+    "rtts_ms": [
+      10,
+      50,
+      200
+    ]
+  },
+  {
+    "scenario": "3flows_diffRTT_bbr",
+    "per_flow": [
+      {
+        "flow_id": 0,
+        "cca": "bbr",
+        "rtt_ms": 10,
+        "large_throughput_mbps": 37.31392964099617,
+        "large_fct_seconds": 230.207182,
+        "plt_seconds": 0.43822300000000003,
+        "ttfb_seconds": 0.022033,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 39.28990396730404,
+          "throughput_jitter_mbps": 2.703309959056146,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 2.454794
+        }
+      },
+      {
+        "flow_id": 1,
+        "cca": "bbr",
+        "rtt_ms": 50,
+        "large_throughput_mbps": 31.024799521022565,
+        "large_fct_seconds": 276.87317,
+        "plt_seconds": 2.170457,
+        "ttfb_seconds": 0.108353,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 8.861488777538787,
+          "throughput_jitter_mbps": 0.6973614425809718,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 10.889227000000002
+        }
+      },
+      {
+        "flow_id": 2,
+        "cca": "bbr",
+        "rtt_ms": 200,
+        "large_throughput_mbps": 55.87334717949163,
+        "large_fct_seconds": 153.739395,
+        "plt_seconds": 8.354825,
+        "ttfb_seconds": 0.407714,
+        "video": {
+          "avg_quality_score": 2.533333333333333,
+          "avg_throughput_mbps": 1.8290074964576974,
+          "throughput_jitter_mbps": 0.4838289505621037,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 40.426995999999995
+        }
+      }
+    ],
+    "fairness": 0.9390474957442637,
+    "bw_mbps": 100,
+    "rtts_ms": [
+      10,
+      50,
+      200
+    ]
+  },
+  {
+    "scenario": "cubic_vs_bbr",
+    "per_flow": [
+      {
+        "flow_id": 0,
+        "cca": "cubic",
+        "rtt_ms": 50,
+        "large_throughput_mbps": 46.73249251491011,
+        "large_fct_seconds": 183.810752,
+        "plt_seconds": 2.081585,
+        "ttfb_seconds": 0.102665,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 8.875052128337842,
+          "throughput_jitter_mbps": 0.6874019807262242,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 10.870955
+        }
+      },
+      {
+        "flow_id": 1,
+        "cca": "bbr",
+        "rtt_ms": 50,
+        "large_throughput_mbps": 45.84089095817349,
+        "large_fct_seconds": 187.385856,
+        "plt_seconds": 2.080498,
+        "ttfb_seconds": 0.10167,
+        "video": {
+          "avg_quality_score": 2.966666666666667,
+          "avg_throughput_mbps": 8.879147057767842,
+          "throughput_jitter_mbps": 0.6878445268736743,
+          "rebuffer_ratio": 0.0,
+          "total_wall_time": 10.865936
+        }
+      }
+    ],
+    "fairness": 0.9999072467623819,
+    "bw_mbps": 100,
+    "rtt_ms": 50
+  }
+]
