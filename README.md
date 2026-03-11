@@ -7,3 +7,5 @@ Our evaluation focuses on two widely deployed congestion control algorithms: CUB
 Experiments are conducted in a controlled testbed where network characteristics such as bandwidth, round-trip time (RTT), packet loss, and buffer size are systematically varied. We measure performance across several metrics, including throughput, fairness between flows, and flow completion time.
 
 The evaluation considers multiple usage scenarios, including single-flow transfers, multi-flow competition, and workloads that emulate real-world video consumption patterns. By analyzing algorithm behavior under these conditions, the project aims to better understand how congestion control design choices impact performance for modern Internet applications.
+
+Project partners: Amber Lien, Dora Zhou
