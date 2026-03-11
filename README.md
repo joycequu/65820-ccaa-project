@@ -1,4 +1,4 @@
-# 65820 Congestion Control Algorithm Analysis Project
+# 6.5820 Congestion Control Algorithm Analysis Project
 
 This project investigates the performance of modern congestion control algorithms under workloads representative of contemporary Internet applications. In particular, we examine how algorithms behave when supporting traffic patterns similar to video streaming, web browsing, and short-form media consumption, which often involve bursty downloads and frequent flow turnover.
 
